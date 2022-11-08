@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bullet-journal/static/css/main.0c919452.css",
-    "main.js": "/bullet-journal/static/js/main.14cd4025.js",
+    "main.js": "/bullet-journal/static/js/main.e87298a6.js",
     "static/js/787.6e3ef0c3.chunk.js": "/bullet-journal/static/js/787.6e3ef0c3.chunk.js",
     "static/media/logo.svg": "/bullet-journal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bullet-journal/index.html",
     "main.0c919452.css.map": "/bullet-journal/static/css/main.0c919452.css.map",
-    "main.14cd4025.js.map": "/bullet-journal/static/js/main.14cd4025.js.map",
+    "main.e87298a6.js.map": "/bullet-journal/static/js/main.e87298a6.js.map",
     "787.6e3ef0c3.chunk.js.map": "/bullet-journal/static/js/787.6e3ef0c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c919452.css",
-    "static/js/main.14cd4025.js"
+    "static/js/main.e87298a6.js"
   ]
 }
