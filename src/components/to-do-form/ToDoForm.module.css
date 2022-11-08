@@ -1,0 +1,25 @@
+.toDoForm {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 1.2rem;
+    display: flex;
+    width: 80%;
+}
+
+.toDoInput {
+    flex-grow: 1;
+    outline: none;
+    border: none;
+    border-top-left-radius: 255px 15px;
+    border-top-right-radius: 15px 225px;
+    border-bottom-right-radius: 225px 15px;
+    border-bottom-left-radius:15px 255px;
+    border:solid 2px transparent;
+    border-bottom-color: gray;
+    height: 50px;
+    font-size: 1.2rem;
+}
+
+.toDoForm button {
+    font-size: 1.2rem;
+}
