@@ -47,8 +47,7 @@ export default function Daily({ env, handleEnv }) {
     }
 
     useEffect(() => {
-        let myTodo = localStorage.getItem('todo');
-        myTodo = JSON.parse(myTodo);
+        const myTodo = localStorage.getItem('todo') ? JSON.parse(localStorage.getItem('todo')) : [];
         setTodo(myTodo);
         setInit(true);
     }, [])
